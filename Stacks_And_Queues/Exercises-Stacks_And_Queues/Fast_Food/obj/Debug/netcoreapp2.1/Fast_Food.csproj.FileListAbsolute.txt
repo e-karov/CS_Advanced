@@ -1,0 +1,11 @@
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\bin\Debug\netcoreapp2.1\Fast_Food.deps.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\bin\Debug\netcoreapp2.1\Fast_Food.runtimeconfig.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\bin\Debug\netcoreapp2.1\Fast_Food.runtimeconfig.dev.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\bin\Debug\netcoreapp2.1\Fast_Food.dll
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\bin\Debug\netcoreapp2.1\Fast_Food.pdb
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\obj\Debug\netcoreapp2.1\Fast_Food.csprojAssemblyReference.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\obj\Debug\netcoreapp2.1\Fast_Food.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\obj\Debug\netcoreapp2.1\Fast_Food.AssemblyInfoInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\obj\Debug\netcoreapp2.1\Fast_Food.AssemblyInfo.cs
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\obj\Debug\netcoreapp2.1\Fast_Food.dll
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Fast_Food\obj\Debug\netcoreapp2.1\Fast_Food.pdb
