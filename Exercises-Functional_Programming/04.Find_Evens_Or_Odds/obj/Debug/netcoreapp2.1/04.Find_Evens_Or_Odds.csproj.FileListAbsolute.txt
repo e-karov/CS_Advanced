@@ -1,0 +1,11 @@
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\bin\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.deps.json
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\bin\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.runtimeconfig.json
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\bin\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.runtimeconfig.dev.json
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\bin\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.dll
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\bin\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.pdb
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\obj\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.csprojAssemblyReference.cache
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\obj\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\obj\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\obj\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.AssemblyInfo.cs
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\obj\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.dll
+D:\VS_Repo\Exercises-Functional_Programming\04.Find_Evens_Or_Odds\obj\Debug\netcoreapp2.1\04.Find_Evens_Or_Odds.pdb

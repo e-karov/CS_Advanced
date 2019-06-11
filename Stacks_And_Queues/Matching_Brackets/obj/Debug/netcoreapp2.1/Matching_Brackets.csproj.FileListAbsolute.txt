@@ -1,0 +1,11 @@
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\bin\Debug\netcoreapp2.1\Matching_Brackets.deps.json
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\bin\Debug\netcoreapp2.1\Matching_Brackets.runtimeconfig.json
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\bin\Debug\netcoreapp2.1\Matching_Brackets.runtimeconfig.dev.json
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\bin\Debug\netcoreapp2.1\Matching_Brackets.dll
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\bin\Debug\netcoreapp2.1\Matching_Brackets.pdb
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\obj\Debug\netcoreapp2.1\Matching_Brackets.csprojAssemblyReference.cache
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\obj\Debug\netcoreapp2.1\Matching_Brackets.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\obj\Debug\netcoreapp2.1\Matching_Brackets.AssemblyInfoInputs.cache
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\obj\Debug\netcoreapp2.1\Matching_Brackets.AssemblyInfo.cs
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\obj\Debug\netcoreapp2.1\Matching_Brackets.dll
+D:\VS_Repo\Stacks_And_Queues\Matching_Brackets\obj\Debug\netcoreapp2.1\Matching_Brackets.pdb

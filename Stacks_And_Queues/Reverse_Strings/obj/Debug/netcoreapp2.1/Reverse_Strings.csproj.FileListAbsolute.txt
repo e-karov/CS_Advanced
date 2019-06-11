@@ -1,0 +1,11 @@
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\bin\Debug\netcoreapp2.1\Reverse_Strings.deps.json
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\bin\Debug\netcoreapp2.1\Reverse_Strings.runtimeconfig.json
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\bin\Debug\netcoreapp2.1\Reverse_Strings.runtimeconfig.dev.json
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\bin\Debug\netcoreapp2.1\Reverse_Strings.dll
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\bin\Debug\netcoreapp2.1\Reverse_Strings.pdb
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\obj\Debug\netcoreapp2.1\Reverse_Strings.csprojAssemblyReference.cache
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\obj\Debug\netcoreapp2.1\Reverse_Strings.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\obj\Debug\netcoreapp2.1\Reverse_Strings.AssemblyInfoInputs.cache
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\obj\Debug\netcoreapp2.1\Reverse_Strings.AssemblyInfo.cs
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\obj\Debug\netcoreapp2.1\Reverse_Strings.dll
+D:\VS_Repo\Stacks_And_Queues\Reverse_Strings\obj\Debug\netcoreapp2.1\Reverse_Strings.pdb

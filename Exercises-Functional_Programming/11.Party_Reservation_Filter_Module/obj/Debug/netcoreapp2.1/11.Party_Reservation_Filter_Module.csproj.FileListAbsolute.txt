@@ -1,0 +1,11 @@
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\bin\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.deps.json
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\bin\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.runtimeconfig.json
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\bin\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.runtimeconfig.dev.json
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\bin\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.dll
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\bin\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.pdb
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\obj\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.csprojAssemblyReference.cache
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\obj\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\obj\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\obj\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.AssemblyInfo.cs
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\obj\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.dll
+D:\VS_Repo\Exercises-Functional_Programming\11.Party_Reservation_Filter_Module\obj\Debug\netcoreapp2.1\11.Party_Reservation_Filter_Module.pdb

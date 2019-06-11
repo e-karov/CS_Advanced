@@ -1,0 +1,11 @@
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\bin\Debug\netcoreapp2.1\07.Bomb_The_Basement.deps.json
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\bin\Debug\netcoreapp2.1\07.Bomb_The_Basement.runtimeconfig.json
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\bin\Debug\netcoreapp2.1\07.Bomb_The_Basement.runtimeconfig.dev.json
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\bin\Debug\netcoreapp2.1\07.Bomb_The_Basement.dll
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\bin\Debug\netcoreapp2.1\07.Bomb_The_Basement.pdb
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\obj\Debug\netcoreapp2.1\07.Bomb_The_Basement.csprojAssemblyReference.cache
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\obj\Debug\netcoreapp2.1\07.Bomb_The_Basement.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\obj\Debug\netcoreapp2.1\07.Bomb_The_Basement.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\obj\Debug\netcoreapp2.1\07.Bomb_The_Basement.AssemblyInfo.cs
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\obj\Debug\netcoreapp2.1\07.Bomb_The_Basement.dll
+D:\VS_Repo\Exercises_Multidimensional_Arrays\07.Bomb_The_Basement\obj\Debug\netcoreapp2.1\07.Bomb_The_Basement.pdb

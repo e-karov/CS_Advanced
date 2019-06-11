@@ -1,0 +1,11 @@
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\bin\Debug\netcoreapp2.1\The_V-Logger.deps.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\bin\Debug\netcoreapp2.1\The_V-Logger.runtimeconfig.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\bin\Debug\netcoreapp2.1\The_V-Logger.runtimeconfig.dev.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\bin\Debug\netcoreapp2.1\The_V-Logger.dll
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\bin\Debug\netcoreapp2.1\The_V-Logger.pdb
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\obj\Debug\netcoreapp2.1\The_V-Logger.csprojAssemblyReference.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\obj\Debug\netcoreapp2.1\The_V-Logger.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\obj\Debug\netcoreapp2.1\The_V-Logger.AssemblyInfoInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\obj\Debug\netcoreapp2.1\The_V-Logger.AssemblyInfo.cs
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\obj\Debug\netcoreapp2.1\The_V-Logger.dll
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\The_V-Logger\obj\Debug\netcoreapp2.1\The_V-Logger.pdb

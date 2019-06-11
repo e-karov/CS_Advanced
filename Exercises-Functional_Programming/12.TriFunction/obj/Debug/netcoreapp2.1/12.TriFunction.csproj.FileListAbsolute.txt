@@ -1,0 +1,10 @@
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\bin\Debug\netcoreapp2.1\12.TriFunction.deps.json
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\bin\Debug\netcoreapp2.1\12.TriFunction.runtimeconfig.json
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\bin\Debug\netcoreapp2.1\12.TriFunction.runtimeconfig.dev.json
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\bin\Debug\netcoreapp2.1\12.TriFunction.dll
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\bin\Debug\netcoreapp2.1\12.TriFunction.pdb
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\obj\Debug\netcoreapp2.1\12.TriFunction.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\obj\Debug\netcoreapp2.1\12.TriFunction.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\obj\Debug\netcoreapp2.1\12.TriFunction.AssemblyInfo.cs
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\obj\Debug\netcoreapp2.1\12.TriFunction.dll
+D:\VS_Repo\Exercises-Functional_Programming\12.TriFunction\obj\Debug\netcoreapp2.1\12.TriFunction.pdb

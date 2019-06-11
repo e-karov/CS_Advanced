@@ -1,0 +1,11 @@
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\bin\Debug\netcoreapp2.1\Jagged_Array_Modidfication.deps.json
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\bin\Debug\netcoreapp2.1\Jagged_Array_Modidfication.runtimeconfig.json
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\bin\Debug\netcoreapp2.1\Jagged_Array_Modidfication.runtimeconfig.dev.json
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\bin\Debug\netcoreapp2.1\Jagged_Array_Modidfication.dll
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\bin\Debug\netcoreapp2.1\Jagged_Array_Modidfication.pdb
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\obj\Debug\netcoreapp2.1\Jagged_Array_Modidfication.csprojAssemblyReference.cache
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\obj\Debug\netcoreapp2.1\Jagged_Array_Modidfication.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\obj\Debug\netcoreapp2.1\Jagged_Array_Modidfication.AssemblyInfoInputs.cache
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\obj\Debug\netcoreapp2.1\Jagged_Array_Modidfication.AssemblyInfo.cs
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\obj\Debug\netcoreapp2.1\Jagged_Array_Modidfication.dll
+D:\VS_Repo\Multidimensional_Arrays\Jagged_Array_Modidfication\obj\Debug\netcoreapp2.1\Jagged_Array_Modidfication.pdb

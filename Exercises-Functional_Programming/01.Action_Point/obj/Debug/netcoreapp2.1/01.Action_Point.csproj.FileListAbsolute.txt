@@ -1,0 +1,11 @@
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\bin\Debug\netcoreapp2.1\01.Action_Point.deps.json
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\bin\Debug\netcoreapp2.1\01.Action_Point.runtimeconfig.json
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\bin\Debug\netcoreapp2.1\01.Action_Point.runtimeconfig.dev.json
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\bin\Debug\netcoreapp2.1\01.Action_Point.dll
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\bin\Debug\netcoreapp2.1\01.Action_Point.pdb
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\obj\Debug\netcoreapp2.1\01.Action_Point.csprojAssemblyReference.cache
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\obj\Debug\netcoreapp2.1\01.Action_Point.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\obj\Debug\netcoreapp2.1\01.Action_Point.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\obj\Debug\netcoreapp2.1\01.Action_Point.AssemblyInfo.cs
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\obj\Debug\netcoreapp2.1\01.Action_Point.dll
+D:\VS_Repo\Exercises-Functional_Programming\01.Action_Point\obj\Debug\netcoreapp2.1\01.Action_Point.pdb

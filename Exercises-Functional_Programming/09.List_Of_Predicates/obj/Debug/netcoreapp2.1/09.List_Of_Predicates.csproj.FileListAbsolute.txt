@@ -1,0 +1,11 @@
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\obj\Debug\netcoreapp2.1\09.List_Of_Predicates.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\obj\Debug\netcoreapp2.1\09.List_Of_Predicates.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\obj\Debug\netcoreapp2.1\09.List_Of_Predicates.AssemblyInfo.cs
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\bin\Debug\netcoreapp2.1\09.List_Of_Predicates.deps.json
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\bin\Debug\netcoreapp2.1\09.List_Of_Predicates.runtimeconfig.json
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\bin\Debug\netcoreapp2.1\09.List_Of_Predicates.runtimeconfig.dev.json
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\bin\Debug\netcoreapp2.1\09.List_Of_Predicates.dll
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\bin\Debug\netcoreapp2.1\09.List_Of_Predicates.pdb
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\obj\Debug\netcoreapp2.1\09.List_Of_Predicates.dll
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\obj\Debug\netcoreapp2.1\09.List_Of_Predicates.pdb
+D:\VS_Repo\Exercises-Functional_Programming\09.List_Of_Predicates\obj\Debug\netcoreapp2.1\09.List_Of_Predicates.csprojAssemblyReference.cache

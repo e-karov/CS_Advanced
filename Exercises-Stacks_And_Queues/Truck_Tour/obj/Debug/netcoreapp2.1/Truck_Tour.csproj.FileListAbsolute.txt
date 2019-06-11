@@ -1,0 +1,11 @@
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\bin\Debug\netcoreapp2.1\Truck_Tour.deps.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\bin\Debug\netcoreapp2.1\Truck_Tour.runtimeconfig.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\bin\Debug\netcoreapp2.1\Truck_Tour.runtimeconfig.dev.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\bin\Debug\netcoreapp2.1\Truck_Tour.dll
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\bin\Debug\netcoreapp2.1\Truck_Tour.pdb
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\obj\Debug\netcoreapp2.1\Truck_Tour.csprojAssemblyReference.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\obj\Debug\netcoreapp2.1\Truck_Tour.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\obj\Debug\netcoreapp2.1\Truck_Tour.AssemblyInfoInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\obj\Debug\netcoreapp2.1\Truck_Tour.AssemblyInfo.cs
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\obj\Debug\netcoreapp2.1\Truck_Tour.dll
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Truck_Tour\obj\Debug\netcoreapp2.1\Truck_Tour.pdb

@@ -1,0 +1,10 @@
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\bin\Debug\netcoreapp2.1\03.Custom_Min_Function.deps.json
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\bin\Debug\netcoreapp2.1\03.Custom_Min_Function.runtimeconfig.json
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\bin\Debug\netcoreapp2.1\03.Custom_Min_Function.runtimeconfig.dev.json
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\bin\Debug\netcoreapp2.1\03.Custom_Min_Function.dll
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\bin\Debug\netcoreapp2.1\03.Custom_Min_Function.pdb
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\obj\Debug\netcoreapp2.1\03.Custom_Min_Function.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\obj\Debug\netcoreapp2.1\03.Custom_Min_Function.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\obj\Debug\netcoreapp2.1\03.Custom_Min_Function.AssemblyInfo.cs
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\obj\Debug\netcoreapp2.1\03.Custom_Min_Function.dll
+D:\VS_Repo\Exercises-Functional_Programming\03.Custom_Min_Function\obj\Debug\netcoreapp2.1\03.Custom_Min_Function.pdb

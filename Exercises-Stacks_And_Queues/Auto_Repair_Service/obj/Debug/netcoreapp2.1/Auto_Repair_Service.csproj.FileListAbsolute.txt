@@ -1,0 +1,11 @@
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\bin\Debug\netcoreapp2.1\Auto_Repair_Service.deps.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\bin\Debug\netcoreapp2.1\Auto_Repair_Service.runtimeconfig.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\bin\Debug\netcoreapp2.1\Auto_Repair_Service.runtimeconfig.dev.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\bin\Debug\netcoreapp2.1\Auto_Repair_Service.dll
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\bin\Debug\netcoreapp2.1\Auto_Repair_Service.pdb
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\obj\Debug\netcoreapp2.1\Auto_Repair_Service.csprojAssemblyReference.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\obj\Debug\netcoreapp2.1\Auto_Repair_Service.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\obj\Debug\netcoreapp2.1\Auto_Repair_Service.AssemblyInfoInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\obj\Debug\netcoreapp2.1\Auto_Repair_Service.AssemblyInfo.cs
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\obj\Debug\netcoreapp2.1\Auto_Repair_Service.dll
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Auto_Repair_Service\obj\Debug\netcoreapp2.1\Auto_Repair_Service.pdb

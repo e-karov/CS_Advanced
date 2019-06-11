@@ -1,0 +1,11 @@
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\bin\Debug\netcoreapp2.1\Simple_Text_Editor.deps.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\bin\Debug\netcoreapp2.1\Simple_Text_Editor.runtimeconfig.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\bin\Debug\netcoreapp2.1\Simple_Text_Editor.runtimeconfig.dev.json
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\bin\Debug\netcoreapp2.1\Simple_Text_Editor.dll
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\bin\Debug\netcoreapp2.1\Simple_Text_Editor.pdb
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\obj\Debug\netcoreapp2.1\Simple_Text_Editor.csprojAssemblyReference.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\obj\Debug\netcoreapp2.1\Simple_Text_Editor.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\obj\Debug\netcoreapp2.1\Simple_Text_Editor.AssemblyInfoInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\obj\Debug\netcoreapp2.1\Simple_Text_Editor.AssemblyInfo.cs
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\obj\Debug\netcoreapp2.1\Simple_Text_Editor.dll
+D:\VS_Repo\C#_Advanced\Exercises-Stacks_And_Queues\Simple_Text_Editor\obj\Debug\netcoreapp2.1\Simple_Text_Editor.pdb

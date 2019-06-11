@@ -1,0 +1,10 @@
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\bin\Debug\netcoreapp2.1\Even_Times.deps.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\bin\Debug\netcoreapp2.1\Even_Times.runtimeconfig.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\bin\Debug\netcoreapp2.1\Even_Times.runtimeconfig.dev.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\bin\Debug\netcoreapp2.1\Even_Times.dll
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\bin\Debug\netcoreapp2.1\Even_Times.pdb
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\obj\Debug\netcoreapp2.1\Even_Times.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\obj\Debug\netcoreapp2.1\Even_Times.AssemblyInfoInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\obj\Debug\netcoreapp2.1\Even_Times.AssemblyInfo.cs
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\obj\Debug\netcoreapp2.1\Even_Times.dll
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Even_Times\obj\Debug\netcoreapp2.1\Even_Times.pdb
