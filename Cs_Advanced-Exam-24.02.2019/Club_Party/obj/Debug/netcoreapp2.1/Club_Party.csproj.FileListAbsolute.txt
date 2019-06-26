@@ -1,0 +1,11 @@
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\bin\Debug\netcoreapp2.1\Club_Party.deps.json
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\bin\Debug\netcoreapp2.1\Club_Party.runtimeconfig.json
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\bin\Debug\netcoreapp2.1\Club_Party.runtimeconfig.dev.json
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\bin\Debug\netcoreapp2.1\Club_Party.dll
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\bin\Debug\netcoreapp2.1\Club_Party.pdb
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\obj\Debug\netcoreapp2.1\Club_Party.csprojAssemblyReference.cache
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\obj\Debug\netcoreapp2.1\Club_Party.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\obj\Debug\netcoreapp2.1\Club_Party.AssemblyInfoInputs.cache
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\obj\Debug\netcoreapp2.1\Club_Party.AssemblyInfo.cs
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\obj\Debug\netcoreapp2.1\Club_Party.dll
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Club_Party\obj\Debug\netcoreapp2.1\Club_Party.pdb

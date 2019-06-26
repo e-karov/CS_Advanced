@@ -1,0 +1,11 @@
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\obj\Debug\netcoreapp2.1\Space_Station_Establishment.csprojAssemblyReference.cache
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\obj\Debug\netcoreapp2.1\Space_Station_Establishment.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\obj\Debug\netcoreapp2.1\Space_Station_Establishment.AssemblyInfoInputs.cache
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\obj\Debug\netcoreapp2.1\Space_Station_Establishment.AssemblyInfo.cs
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\bin\Debug\netcoreapp2.1\Space_Station_Establishment.deps.json
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\bin\Debug\netcoreapp2.1\Space_Station_Establishment.runtimeconfig.json
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\bin\Debug\netcoreapp2.1\Space_Station_Establishment.runtimeconfig.dev.json
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\bin\Debug\netcoreapp2.1\Space_Station_Establishment.dll
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\bin\Debug\netcoreapp2.1\Space_Station_Establishment.pdb
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\obj\Debug\netcoreapp2.1\Space_Station_Establishment.dll
+D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Establishment\obj\Debug\netcoreapp2.1\Space_Station_Establishment.pdb

@@ -1,0 +1,11 @@
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\bin\Debug\netcoreapp2.1\Tron_Racers.deps.json
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\bin\Debug\netcoreapp2.1\Tron_Racers.runtimeconfig.json
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\bin\Debug\netcoreapp2.1\Tron_Racers.runtimeconfig.dev.json
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\bin\Debug\netcoreapp2.1\Tron_Racers.dll
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\bin\Debug\netcoreapp2.1\Tron_Racers.pdb
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\obj\Debug\netcoreapp2.1\Tron_Racers.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\obj\Debug\netcoreapp2.1\Tron_Racers.AssemblyInfoInputs.cache
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\obj\Debug\netcoreapp2.1\Tron_Racers.AssemblyInfo.cs
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\obj\Debug\netcoreapp2.1\Tron_Racers.dll
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\obj\Debug\netcoreapp2.1\Tron_Racers.pdb
+D:\VS_Repo\Cs_Advanced-Exam-24.02.2019\Tron_Racers\obj\Debug\netcoreapp2.1\Tron_Racers.csprojAssemblyReference.cache

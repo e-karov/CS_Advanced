@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Key_Revolver", "Key_Revolver\Key_Revolver.csproj", "{1838D25A-2C53-4F05-B3B7-DFEE82A15DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaking", "Sneaking\Sneaking.csproj", "{DDAABFC6-ED81-417A-903F-E47029CA8CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1838D25A-2C53-4F05-B3B7-DFEE82A15DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1838D25A-2C53-4F05-B3B7-DFEE82A15DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1838D25A-2C53-4F05-B3B7-DFEE82A15DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1838D25A-2C53-4F05-B3B7-DFEE82A15DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAABFC6-ED81-417A-903F-E47029CA8CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAABFC6-ED81-417A-903F-E47029CA8CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAABFC6-ED81-417A-903F-E47029CA8CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAABFC6-ED81-417A-903F-E47029CA8CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF655149-43E3-4CD9-8A44-B5E0C8325E3D}
+	EndGlobalSection
+EndGlobal
