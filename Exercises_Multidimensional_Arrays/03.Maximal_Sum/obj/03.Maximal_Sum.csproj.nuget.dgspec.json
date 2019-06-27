@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\03.Maximal_Sum.csproj": {}
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\03.Maximal_Sum.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\03.Maximal_Sum.csproj": {
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\03.Maximal_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\03.Maximal_Sum.csproj",
+        "projectUniqueName": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\03.Maximal_Sum.csproj",
         "projectName": "03.Maximal_Sum",
-        "projectPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\03.Maximal_Sum.csproj",
+        "projectPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\03.Maximal_Sum.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\obj\\",
+        "outputPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\03.Maximal_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

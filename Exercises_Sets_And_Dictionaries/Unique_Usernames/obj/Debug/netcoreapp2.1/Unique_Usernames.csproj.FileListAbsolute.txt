@@ -1,0 +1,11 @@
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\bin\Debug\netcoreapp2.1\Unique_Usernames.deps.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\bin\Debug\netcoreapp2.1\Unique_Usernames.runtimeconfig.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\bin\Debug\netcoreapp2.1\Unique_Usernames.runtimeconfig.dev.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\bin\Debug\netcoreapp2.1\Unique_Usernames.dll
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\bin\Debug\netcoreapp2.1\Unique_Usernames.pdb
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\obj\Debug\netcoreapp2.1\Unique_Usernames.csprojAssemblyReference.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\obj\Debug\netcoreapp2.1\Unique_Usernames.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\obj\Debug\netcoreapp2.1\Unique_Usernames.AssemblyInfoInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\obj\Debug\netcoreapp2.1\Unique_Usernames.AssemblyInfo.cs
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\obj\Debug\netcoreapp2.1\Unique_Usernames.dll
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Unique_Usernames\obj\Debug\netcoreapp2.1\Unique_Usernames.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\01.Diagonal_Difference.csproj": {}
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\01.Diagonal_Difference.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\01.Diagonal_Difference.csproj": {
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\01.Diagonal_Difference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\01.Diagonal_Difference.csproj",
+        "projectUniqueName": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\01.Diagonal_Difference.csproj",
         "projectName": "01.Diagonal_Difference",
-        "projectPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\01.Diagonal_Difference.csproj",
+        "projectPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\01.Diagonal_Difference.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\obj\\",
+        "outputPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\01.Diagonal_Difference\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

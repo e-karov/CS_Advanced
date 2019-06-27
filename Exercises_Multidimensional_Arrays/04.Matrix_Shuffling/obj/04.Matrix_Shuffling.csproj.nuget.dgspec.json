@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\04.Matrix_Shuffling.csproj": {}
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\04.Matrix_Shuffling.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\04.Matrix_Shuffling.csproj": {
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\04.Matrix_Shuffling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\04.Matrix_Shuffling.csproj",
+        "projectUniqueName": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\04.Matrix_Shuffling.csproj",
         "projectName": "04.Matrix_Shuffling",
-        "projectPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\04.Matrix_Shuffling.csproj",
+        "projectPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\04.Matrix_Shuffling.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\obj\\",
+        "outputPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\04.Matrix_Shuffling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

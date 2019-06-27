@@ -1,0 +1,11 @@
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csprojAssemblyReference.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfoInputs.cache
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfo.cs
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.deps.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.dev.json
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.dll
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.pdb
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.dll
+D:\VS_Repo\C#_Advanced\Exercises_Sets_a\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.pdb

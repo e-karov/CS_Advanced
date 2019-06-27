@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\10.Radioactive_Mutant_Vampire_Bunnies\\10.Radioactive_Mutant_Vampire_Bunnies.csproj",
+      "projectUniqueName": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\10.Radioactive_Mutant_Vampire_Bunnies\\10.Radioactive_Mutant_Vampire_Bunnies.csproj",
       "projectName": "10.Radioactive_Mutant_Vampire_Bunnies",
-      "projectPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\10.Radioactive_Mutant_Vampire_Bunnies\\10.Radioactive_Mutant_Vampire_Bunnies.csproj",
+      "projectPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\10.Radioactive_Mutant_Vampire_Bunnies\\10.Radioactive_Mutant_Vampire_Bunnies.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\10.Radioactive_Mutant_Vampire_Bunnies\\obj\\",
+      "outputPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\10.Radioactive_Mutant_Vampire_Bunnies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

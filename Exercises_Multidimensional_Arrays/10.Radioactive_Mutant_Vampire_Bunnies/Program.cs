@@ -46,6 +46,12 @@
                         Console.WriteLine($"won: {currentRow} {currentCol}");
                         return;
                     }
+
+                    if (lair[currentRow - 1, currentCol] == 'B')
+                    {
+                        Console.WriteLine($"dead: {currentRow} {currentCol}");
+                        return;
+                    }
                 }
 
                 else if (command == 'D')
@@ -53,6 +59,12 @@
                     if (currentRow + 1 >= rows)
                     {
                         Console.WriteLine($"won: {currentRow} {currentCol}");
+                        return;
+                    }
+
+                    if (lair[currentRow + 1, currentCol] == 'B')
+                    {
+                        Console.WriteLine($"dead: {currentRow} {currentCol}");
                         return;
                     }
                 }
@@ -64,6 +76,12 @@
                         Console.WriteLine($"won: {currentRow} {currentCol}");
                         return;
                     }
+
+                    if (lair[currentRow, currentCol-1] == 'B')
+                    {
+                        Console.WriteLine($"dead: {currentRow} {currentCol}");
+                        return;
+                    }
                 }
 
                 else if (command == 'R')
@@ -72,6 +90,61 @@
                     {
                         Console.WriteLine($"won: {currentRow} {currentCol}");
                         return; 
+                    }
+
+                    if (lair[currentRow, currentCol+1] == 'B')
+                    {
+                        Console.WriteLine($"dead: {currentRow} {currentCol}");
+                        return;
+                    }
+                }
+
+                for (int i = 0; i < rows; i++)
+                {
+                    for (int j = 0; j < cols; j++)
+                    {
+                        if (lair[i, j] == 'B')
+                        {
+                            if (i-1 > 0)
+                            {
+                                if (lair[i - 1, j] == 'P')
+                                {
+                                    Console.WriteLine($"dead: {currentRow} {currentCol}");
+                                }
+                                lair[i - 1, j] = 'B';
+                                return;
+                            }
+
+                            if (i + 1 < rows)
+                            {
+                                if (lair[i+1, j] == 'P')
+                                {
+                                    Console.WriteLine($"dead: {currentRow} {currentCol}");
+                                }
+                                lair[i + 1, j] = 'B';
+                                return;
+                            }
+
+                            if (j - 1 > 0)
+                            {
+                                if (lair[i, j - 1] == 'P')
+                                {
+                                    Console.WriteLine($"dead: {currentRow} {currentCol}");
+                                }
+                                lair[i, j - 1] = 'B';
+                                return;
+                            }
+
+                            if (j + 1 < cols)
+                            {
+                                if (lair[i, j + 1] == 'P')
+                                {
+                                    Console.WriteLine($"dead: {currentRow} {currentCol}");
+                                }
+                                lair[i, j + 1] = 'B';
+                                return;
+                            }
+                        }
                     }
                 }
             }

@@ -1,0 +1,11 @@
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\obj\Debug\netcoreapp2.1\Speed_Racing.csprojAssemblyReference.cache
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\obj\Debug\netcoreapp2.1\Speed_Racing.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\obj\Debug\netcoreapp2.1\Speed_Racing.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\obj\Debug\netcoreapp2.1\Speed_Racing.AssemblyInfo.cs
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\bin\Debug\netcoreapp2.1\Speed_Racing.deps.json
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\bin\Debug\netcoreapp2.1\Speed_Racing.runtimeconfig.json
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\bin\Debug\netcoreapp2.1\Speed_Racing.runtimeconfig.dev.json
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\bin\Debug\netcoreapp2.1\Speed_Racing.dll
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\bin\Debug\netcoreapp2.1\Speed_Racing.pdb
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\obj\Debug\netcoreapp2.1\Speed_Racing.dll
+D:\VS_Repo\Exercises-Defining_Classes\Speed_Racing\obj\Debug\netcoreapp2.1\Speed_Racing.pdb

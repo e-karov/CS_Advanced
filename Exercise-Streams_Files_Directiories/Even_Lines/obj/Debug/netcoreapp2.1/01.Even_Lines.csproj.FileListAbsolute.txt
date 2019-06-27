@@ -1,0 +1,12 @@
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\obj\Debug\netcoreapp2.1\01.Even_Lines.csprojAssemblyReference.cache
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\obj\Debug\netcoreapp2.1\01.Even_Lines.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\obj\Debug\netcoreapp2.1\01.Even_Lines.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\obj\Debug\netcoreapp2.1\01.Even_Lines.AssemblyInfo.cs
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\bin\Debug\netcoreapp2.1\text.txt
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\bin\Debug\netcoreapp2.1\01.Even_Lines.deps.json
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\bin\Debug\netcoreapp2.1\01.Even_Lines.runtimeconfig.json
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\bin\Debug\netcoreapp2.1\01.Even_Lines.runtimeconfig.dev.json
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\bin\Debug\netcoreapp2.1\01.Even_Lines.dll
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\bin\Debug\netcoreapp2.1\01.Even_Lines.pdb
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\obj\Debug\netcoreapp2.1\01.Even_Lines.dll
+D:\VS_Repo\Exercise-Streams_Files_Directiories\01.Even_Lines\obj\Debug\netcoreapp2.1\01.Even_Lines.pdb

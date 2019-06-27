@@ -1,0 +1,11 @@
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\bin\Debug\netcoreapp2.1\EquqlityLogic.deps.json
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\bin\Debug\netcoreapp2.1\EquqlityLogic.runtimeconfig.json
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\bin\Debug\netcoreapp2.1\EquqlityLogic.runtimeconfig.dev.json
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\bin\Debug\netcoreapp2.1\EquqlityLogic.dll
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\bin\Debug\netcoreapp2.1\EquqlityLogic.pdb
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\obj\Debug\netcoreapp2.1\EquqlityLogic.csprojAssemblyReference.cache
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\obj\Debug\netcoreapp2.1\EquqlityLogic.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\obj\Debug\netcoreapp2.1\EquqlityLogic.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\obj\Debug\netcoreapp2.1\EquqlityLogic.AssemblyInfo.cs
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\obj\Debug\netcoreapp2.1\EquqlityLogic.dll
+D:\VS_Repo\Exercises-Iterators_And_Comparators\EquqlityLogic\obj\Debug\netcoreapp2.1\EquqlityLogic.pdb

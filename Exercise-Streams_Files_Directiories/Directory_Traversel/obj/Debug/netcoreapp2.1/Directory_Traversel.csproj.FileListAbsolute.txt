@@ -1,0 +1,11 @@
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\bin\Debug\netcoreapp2.1\Directory_Traversel.deps.json
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\bin\Debug\netcoreapp2.1\Directory_Traversel.runtimeconfig.json
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\bin\Debug\netcoreapp2.1\Directory_Traversel.runtimeconfig.dev.json
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\bin\Debug\netcoreapp2.1\Directory_Traversel.dll
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\bin\Debug\netcoreapp2.1\Directory_Traversel.pdb
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\obj\Debug\netcoreapp2.1\Directory_Traversel.csprojAssemblyReference.cache
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\obj\Debug\netcoreapp2.1\Directory_Traversel.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\obj\Debug\netcoreapp2.1\Directory_Traversel.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\obj\Debug\netcoreapp2.1\Directory_Traversel.AssemblyInfo.cs
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\obj\Debug\netcoreapp2.1\Directory_Traversel.dll
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Directory_Traversel\obj\Debug\netcoreapp2.1\Directory_Traversel.pdb

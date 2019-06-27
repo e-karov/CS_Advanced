@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\07.Bomb_The_Basement.csproj": {}
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\07.Bomb_The_Basement.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\07.Bomb_The_Basement.csproj": {
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\07.Bomb_The_Basement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\07.Bomb_The_Basement.csproj",
+        "projectUniqueName": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\07.Bomb_The_Basement.csproj",
         "projectName": "07.Bomb_The_Basement",
-        "projectPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\07.Bomb_The_Basement.csproj",
+        "projectPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\07.Bomb_The_Basement.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\obj\\",
+        "outputPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\07.Bomb_The_Basement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\02.2x2_Squares_In_Matrix\\02.2x2_Squares_In_Matrix.csproj",
+      "projectUniqueName": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\02.2x2_Squares_In_Matrix\\02.2x2_Squares_In_Matrix.csproj",
       "projectName": "02.2x2_Squares_In_Matrix",
-      "projectPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\02.2x2_Squares_In_Matrix\\02.2x2_Squares_In_Matrix.csproj",
+      "projectPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\02.2x2_Squares_In_Matrix\\02.2x2_Squares_In_Matrix.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\02.2x2_Squares_In_Matrix\\obj\\",
+      "outputPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\02.2x2_Squares_In_Matrix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

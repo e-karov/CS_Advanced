@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\09.Miner\\09.Miner.csproj": {}
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\09.Miner\\09.Miner.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\09.Miner\\09.Miner.csproj": {
+    "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\09.Miner\\09.Miner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\09.Miner\\09.Miner.csproj",
+        "projectUniqueName": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\09.Miner\\09.Miner.csproj",
         "projectName": "09.Miner",
-        "projectPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\09.Miner\\09.Miner.csproj",
+        "projectPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\09.Miner\\09.Miner.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Exercises_Multidimensional_Arrays\\09.Miner\\obj\\",
+        "outputPath": "D:\\VS_Repo\\C#_Advanced\\Exercises_Multidimensional_Arrays\\09.Miner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

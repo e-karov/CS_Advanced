@@ -1,0 +1,12 @@
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\bin\Debug\netcoreapp2.1\copyMe.png
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.deps.json
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.runtimeconfig.json
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.runtimeconfig.dev.json
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.dll
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.pdb
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.csprojAssemblyReference.cache
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.AssemblyInfo.cs
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.dll
+D:\VS_Repo\Exercise-Streams_Files_Directiories\Copy_Binaty_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.pdb
