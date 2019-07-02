@@ -9,3 +9,14 @@ D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\bin\Debug\netco
 D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
 D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
 D:\VS_Repo\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\Lokal_Repo\CS_Advanced\Cs_Advanced_Exam-23.06.2019\Space_Station_Recruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb

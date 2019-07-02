@@ -2,7 +2,6 @@
 {
     public class Astronaut
     {
-       
         public Astronaut(string name, int age, string country)
         {
             this.Name = name;
@@ -10,11 +9,11 @@
             this.Country = country;
         }
 
-        public string Name { get; set; }
+        public string Name { get; private set; }
 
-        public int Age { get; set; }
+        public int Age { get; private set; }
 
-        public string Country { get; set; }
+        public string Country { get; private set; }
 
 
         public override string ToString()

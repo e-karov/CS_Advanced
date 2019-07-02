@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
+      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
       "projectName": "SpaceStationRecruitment",
-      "projectPath": "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
+      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Recruitment\\SpaceStationRecruitment.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Recruitment\\obj\\",
+      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Recruitment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

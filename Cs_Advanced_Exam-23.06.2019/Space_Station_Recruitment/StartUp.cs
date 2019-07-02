@@ -1,38 +1,36 @@
-﻿using System;
-
-namespace SpaceStationRecruitment
+﻿namespace SpaceStationRecruitment                       // 100 / 100
 {
+    using System;
+
+
     public class StartUp
     {
-        static void Main()
+        public static void Main()
         {
             SpaceStation spaceStation = new SpaceStation("Apolo", 10);
-            //Initialize entity
+
             Astronaut astronaut = new Astronaut("Stephen", 40, "Bulgaria");
-            //Print Astronaut
-            Console.WriteLine(astronaut); //Astronaut: Stephen, 40 (Bulgaria)
+
+            Console.WriteLine(astronaut);
 
             spaceStation.Add(astronaut);
-            //Remove Astronaut
-            spaceStation.Remove("Astronaut name"); //false
+           
+            spaceStation.Remove("Astronaut name"); 
 
             Astronaut secondAstronaut = new Astronaut("Mark", 34, "UK");
 
-            //Add Astronaut
             spaceStation.Add(secondAstronaut);
 
             Astronaut oldestAstronaut = spaceStation.GetOldestAstronaut();
 
-            Astronaut astronautStephen = spaceStation.GetAstronaut("Stephen"); // Astronaut with name Stephen
-            Console.WriteLine(oldestAstronaut); //Astronaut: Stephen, 40 (Bulgaria)
-            Console.WriteLine(astronautStephen); //Astronaut: Stephen, 40 (Bulgaria)
+            Astronaut astronautStephen = spaceStation.GetAstronaut("Stephen"); 
+            Console.WriteLine(oldestAstronaut); 
+            Console.WriteLine(astronautStephen); 
 
-            Console.WriteLine(spaceStation.Count); //2
+            Console.WriteLine(spaceStation.Count);
 
             Console.WriteLine(spaceStation.Report());
-            //Astronauts working at Space Station Apolo:
-            //Astronaut: Stephen, 40 (Bulgaria)
-            //Astronaut: Mark, 34 (UK)
+            
         }
     }
 }

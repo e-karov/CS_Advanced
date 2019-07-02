@@ -1,9 +1,10 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace SpaceStationRecruitment
+﻿namespace SpaceStationRecruitment
 {
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+
     public class SpaceStation
     {
         private List<Astronaut> data;
@@ -21,9 +22,9 @@ namespace SpaceStationRecruitment
             this.Capacity = capacity;
         }
 
-        public string Name { get; set; }
+        public string Name { get; private set; }
 
-        public int Capacity { get; set; }
+        public int Capacity { get; private set; }
 
         public int Count => this.data.Count;
       
@@ -31,9 +32,9 @@ namespace SpaceStationRecruitment
 
         public void Add(Astronaut astronaut)
         {
-            if (data.Count <= data.Capacity)
+            if (this.Count < this.Capacity)
             {
-                data.Add(astronaut);
+                this.data.Add(astronaut);
             }
         }
 
@@ -43,12 +44,11 @@ namespace SpaceStationRecruitment
 
             Astronaut astronautToRemove = data.FirstOrDefault(a => a.Name == name);
 
-            if (data.Contains(astronautToRemove))
+            if (astronautToRemove != null)
             {
                 data.Remove(astronautToRemove);
                 isRemoved = true;
             }
-
             return isRemoved;
         }
 
@@ -56,6 +56,10 @@ namespace SpaceStationRecruitment
         {
             Astronaut oldestAstronaut = data.OrderByDescending(a => a.Age).FirstOrDefault();
 
+            if (oldestAstronaut == null)
+            {
+                throw new System.InvalidOperationException("Collection is empty");
+            }
             return oldestAstronaut;
         }
 
@@ -63,6 +67,10 @@ namespace SpaceStationRecruitment
         {
             Astronaut targetAstronaut = data.FirstOrDefault(a => a.Name == name);
 
+            if (targetAstronaut == null)
+            {
+                throw new System.InvalidOperationException($"No astronaut with name {name} in the Collection");
+            }
             return targetAstronaut;
         }
 
@@ -75,7 +83,6 @@ namespace SpaceStationRecruitment
             {
                 report.AppendLine($"{astronaut}");
             }
-
             return report.ToString().TrimEnd();
         }
     }
