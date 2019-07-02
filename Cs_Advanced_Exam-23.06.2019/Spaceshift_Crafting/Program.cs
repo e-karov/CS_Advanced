@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Spaceshift_Crafting
+namespace Spaceshift_Crafting                               // 100 / 100
 {
     public class StartUp
     {

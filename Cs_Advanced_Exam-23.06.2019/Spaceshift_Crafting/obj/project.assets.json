@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Spaceshift_Crafting\\Spaceshift_Crafting.csproj",
+      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Spaceshift_Crafting\\Spaceshift_Crafting.csproj",
       "projectName": "Spaceshift_Crafting",
-      "projectPath": "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Spaceshift_Crafting\\Spaceshift_Crafting.csproj",
+      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Spaceshift_Crafting\\Spaceshift_Crafting.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Spaceshift_Crafting\\obj\\",
+      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Spaceshift_Crafting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

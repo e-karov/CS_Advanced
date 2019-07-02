@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\Space_Station_Establishment.csproj": {}
+    "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\Space_Station_Establishment.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\Space_Station_Establishment.csproj": {
+    "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\Space_Station_Establishment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\Space_Station_Establishment.csproj",
+        "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\Space_Station_Establishment.csproj",
         "projectName": "Space_Station_Establishment",
-        "projectPath": "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\Space_Station_Establishment.csproj",
+        "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\Space_Station_Establishment.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\obj\\",
+        "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Cs_Advanced_Exam-23.06.2019\\Space_Station_Establishment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
