@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Exercises-Defining_Classes\\DefiningClasses\\SoftUniParking\\SoftUniParking.csproj",
+      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\DefiningClasses\\SoftUniParking\\SoftUniParking.csproj",
       "projectName": "SoftUniParking",
-      "projectPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\DefiningClasses\\SoftUniParking\\SoftUniParking.csproj",
+      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\DefiningClasses\\SoftUniParking\\SoftUniParking.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\DefiningClasses\\SoftUniParking\\obj\\",
+      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\DefiningClasses\\SoftUniParking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

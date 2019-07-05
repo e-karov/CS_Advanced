@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Exercises-Defining_Classes\\DefiningClasses\\DefiningClasses.csproj",
+      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\DefiningClasses\\DefiningClasses.csproj",
       "projectName": "DefiningClasses",
-      "projectPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\DefiningClasses\\DefiningClasses.csproj",
+      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\DefiningClasses\\DefiningClasses.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\DefiningClasses\\obj\\",
+      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\DefiningClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

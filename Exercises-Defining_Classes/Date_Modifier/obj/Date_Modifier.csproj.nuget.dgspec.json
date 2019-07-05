@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Exercises-Defining_Classes\\Date_Modifier\\Date_Modifier.csproj": {}
+    "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Date_Modifier\\Date_Modifier.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Exercises-Defining_Classes\\Date_Modifier\\Date_Modifier.csproj": {
+    "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Date_Modifier\\Date_Modifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Exercises-Defining_Classes\\Date_Modifier\\Date_Modifier.csproj",
+        "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Date_Modifier\\Date_Modifier.csproj",
         "projectName": "Date_Modifier",
-        "projectPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\Date_Modifier\\Date_Modifier.csproj",
+        "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Date_Modifier\\Date_Modifier.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\Date_Modifier\\obj\\",
+        "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Date_Modifier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

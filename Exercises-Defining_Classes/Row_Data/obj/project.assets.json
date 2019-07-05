@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Exercises-Defining_Classes\\Row_Data\\Row_Data.csproj",
+      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Row_Data\\Row_Data.csproj",
       "projectName": "Row_Data",
-      "projectPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\Row_Data\\Row_Data.csproj",
+      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Row_Data\\Row_Data.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\Row_Data\\obj\\",
+      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Row_Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

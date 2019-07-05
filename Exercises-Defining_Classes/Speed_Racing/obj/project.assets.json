@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Exercises-Defining_Classes\\Speed_Racing\\Speed_Racing.csproj",
+      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Speed_Racing\\Speed_Racing.csproj",
       "projectName": "Speed_Racing",
-      "projectPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\Speed_Racing\\Speed_Racing.csproj",
+      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Speed_Racing\\Speed_Racing.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\Speed_Racing\\obj\\",
+      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Speed_Racing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

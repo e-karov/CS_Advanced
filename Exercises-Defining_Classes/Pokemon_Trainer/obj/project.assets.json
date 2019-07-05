@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Exercises-Defining_Classes\\Pokemon_Trainer\\Pokemon_Trainer.csproj",
+      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Pokemon_Trainer\\Pokemon_Trainer.csproj",
       "projectName": "Pokemon_Trainer",
-      "projectPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\Pokemon_Trainer\\Pokemon_Trainer.csproj",
+      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Pokemon_Trainer\\Pokemon_Trainer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Exercises-Defining_Classes\\Pokemon_Trainer\\obj\\",
+      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercises-Defining_Classes\\Pokemon_Trainer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
