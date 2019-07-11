@@ -1,0 +1,11 @@
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+D:\VS_Repo\C#-OOP\Exercises-Working_With_Abstractions\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

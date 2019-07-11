@@ -1,0 +1,11 @@
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\bin\Debug\netcoreapp2.1\Class_Box.deps.json
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\bin\Debug\netcoreapp2.1\Class_Box.runtimeconfig.json
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\bin\Debug\netcoreapp2.1\Class_Box.runtimeconfig.dev.json
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\bin\Debug\netcoreapp2.1\Class_Box.dll
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\bin\Debug\netcoreapp2.1\Class_Box.pdb
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\obj\Debug\netcoreapp2.1\Class_Box.csprojAssemblyReference.cache
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\obj\Debug\netcoreapp2.1\Class_Box.csproj.CoreCompileInputs.cache
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\obj\Debug\netcoreapp2.1\Class_Box.AssemblyInfoInputs.cache
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\obj\Debug\netcoreapp2.1\Class_Box.AssemblyInfo.cs
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\obj\Debug\netcoreapp2.1\Class_Box.dll
+D:\VS_Repo\Exercice-Encapsulation\Class_Box\obj\Debug\netcoreapp2.1\Class_Box.pdb

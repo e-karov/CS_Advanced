@@ -1,0 +1,11 @@
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\bin\Debug\netcoreapp2.1\Person.dll
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\bin\Debug\netcoreapp2.1\Person.pdb
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\obj\Debug\netcoreapp2.1\Person.dll
+D:\VS_Repo\C#-OOP\Exercise-Inheritance\Person\obj\Debug\netcoreapp2.1\Person.pdb
