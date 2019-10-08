@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Exercice-Encapsulation\\ShopingSpree\\ShopingSpree.csproj": {}
+    "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\ShopingSpree\\ShopingSpree.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Exercice-Encapsulation\\ShopingSpree\\ShopingSpree.csproj": {
+    "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\ShopingSpree\\ShopingSpree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Exercice-Encapsulation\\ShopingSpree\\ShopingSpree.csproj",
+        "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\ShopingSpree\\ShopingSpree.csproj",
         "projectName": "ShopingSpree",
-        "projectPath": "D:\\VS_Repo\\Exercice-Encapsulation\\ShopingSpree\\ShopingSpree.csproj",
+        "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\ShopingSpree\\ShopingSpree.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Exercice-Encapsulation\\ShopingSpree\\obj\\",
+        "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\ShopingSpree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

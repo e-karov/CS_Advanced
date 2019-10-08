@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Exercice-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj": {}
+    "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Exercice-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj": {
+    "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Exercice-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+        "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
         "projectName": "FootballTeamGenerator",
-        "projectPath": "D:\\VS_Repo\\Exercice-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+        "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Exercice-Encapsulation\\FootballTeamGenerator\\obj\\",
+        "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\FootballTeamGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

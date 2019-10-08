@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
-      "projectName": "FootballTeamGenerator",
-      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+      "projectUniqueName": "D:\\VS_Repo\\Class_Box\\Shopping_Spree\\Shopping_Spree.csproj",
+      "projectName": "Shopping_Spree",
+      "projectPath": "D:\\VS_Repo\\Class_Box\\Shopping_Spree\\Shopping_Spree.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\FootballTeamGenerator\\obj\\",
+      "outputPath": "D:\\VS_Repo\\Class_Box\\Shopping_Spree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

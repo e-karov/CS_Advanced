@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Repo\\Exercice-Encapsulation\\PizzaCalories\\PizzaCalories.csproj": {}
+    "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\PizzaCalories\\PizzaCalories.csproj": {}
   },
   "projects": {
-    "D:\\VS_Repo\\Exercice-Encapsulation\\PizzaCalories\\PizzaCalories.csproj": {
+    "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\PizzaCalories\\PizzaCalories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Repo\\Exercice-Encapsulation\\PizzaCalories\\PizzaCalories.csproj",
+        "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\PizzaCalories\\PizzaCalories.csproj",
         "projectName": "PizzaCalories",
-        "projectPath": "D:\\VS_Repo\\Exercice-Encapsulation\\PizzaCalories\\PizzaCalories.csproj",
+        "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\PizzaCalories\\PizzaCalories.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Repo\\Exercice-Encapsulation\\PizzaCalories\\obj\\",
+        "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\PizzaCalories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

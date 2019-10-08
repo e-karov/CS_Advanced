@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Exercice-Encapsulation\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
+      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
       "projectName": "AnimalFarm",
-      "projectPath": "D:\\VS_Repo\\Exercice-Encapsulation\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
+      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Exercice-Encapsulation\\AnimalFarm\\AnimalFarm\\obj\\",
+      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\AnimalFarm\\AnimalFarm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Repo\\Exercice-Encapsulation\\Class_Box\\Class_Box.csproj",
+      "projectUniqueName": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\Class_Box\\Class_Box.csproj",
       "projectName": "Class_Box",
-      "projectPath": "D:\\VS_Repo\\Exercice-Encapsulation\\Class_Box\\Class_Box.csproj",
+      "projectPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\Class_Box\\Class_Box.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Repo\\Exercice-Encapsulation\\Class_Box\\obj\\",
+      "outputPath": "D:\\Lokal_Repo\\CS_Advanced\\Exercices-Encapsulation\\Class_Box\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
