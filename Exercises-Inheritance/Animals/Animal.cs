@@ -1,8 +1,8 @@
-﻿using System.Text;
+﻿using System;
+using System.Text;
 
 namespace Animals
 {
-
     public class Animal
     {
         private string name;
@@ -18,18 +18,23 @@ namespace Animals
             this.Gender = gender;
         }
 
+
+        public Animal(string name, int age)
+        {
+            this.Name = name;
+            this.Age = age;
+        }
+
+
         public string Name
         {
-            get
-            {
-                return this.name;
-            }
+            get => this.name;
 
             protected set
             {
-                if (value.Length < 1)
+                if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new System.ArgumentException("Invalid input!");
+                    throw new ArgumentException("Invalid input!");
                 }
 
                 this.name = value;
@@ -39,37 +44,49 @@ namespace Animals
 
         public int Age
         {
-            get
-            {
-                return this.age;
-            }
+            get => this.age;
 
             protected set
             {
-                if (value < 0)
+                if (value <= 0 )
                 {
-                    throw new System.ArgumentException("Invalid input!");
+                    throw new ArgumentException("Invalid input!");
                 }
 
                 this.age = value;
             }
+
         }
 
-        public virtual string Gender { get; protected set; }
-       
+        public string Gender
+        {
+            get => this.gender;
 
+            protected set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException("Invalid input!");
+                }
+
+                this.gender = value;
+            }
+
+        }
 
         public virtual string ProduceSound()
         {
-            return "Some sound";
+            return "Animal`s sound";
         }
 
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"{this.name} {this.age} {this.gender}");
-            sb.AppendLine($"{ProduceSound()}");
+            sb.AppendLine(this.GetType().Name);
+            sb.AppendLine($"{this.Name} {this.Age} {this.Gender}");
+            sb.AppendLine(this.ProduceSound());
+
             return sb.ToString().TrimEnd();
         }
     }
