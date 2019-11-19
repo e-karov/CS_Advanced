@@ -1,0 +1,11 @@
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.csprojAssemblyReference.cache
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.AssemblyInfoInputs.cache
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.AssemblyInfo.cs
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.exe
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.deps.json
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.runtimeconfig.json
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.runtimeconfig.dev.json
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.dll
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.pdb
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.dll
+D:\VS_Repo\Pollimorhism_Excercises\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.pdb
